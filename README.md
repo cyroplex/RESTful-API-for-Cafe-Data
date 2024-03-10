@@ -61,7 +61,7 @@ Creating an API for Cafe Datas with RestAPI Architecture.
 
 #### Delete Cafe By ID
 
-```htto
+```http
     DELETE /report-closed/1?api-key=TopSecretAPIKey
 ```
 | Parameter | Type     | Description                       |
