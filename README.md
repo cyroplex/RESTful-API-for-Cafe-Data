@@ -1,7 +1,7 @@
 
-# RestAPI-for-Cafe-Datas
+# RestAPI-for-Cafe-Data
 
-Creating an API for Cafe Datas with RestAPI Architecture.
+Creating an API for Cafe Data with RestAPI Architecture.
 
 
 ## API Guide
