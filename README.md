@@ -1,7 +1,7 @@
 
 # RESTful-API-for-Cafe-Data
 
-Creating an API for Cafe Data with RestAPI Architecture.
+This project provides a RESTful API for cafe data. Users can use this API to access and manage various cafe information.
 
 
 ## API Guide
