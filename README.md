@@ -1,5 +1,5 @@
 
-# RestAPI-for-Cafe-Data
+# RESTful-API-for-Cafe-Data
 
 Creating an API for Cafe Data with RestAPI Architecture.
 
